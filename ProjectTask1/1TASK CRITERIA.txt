@@ -1,0 +1,6 @@
+Criteria:-	If BMI 18.5 to 25, Healthy
+	        If BMI 25 to <30, Overweight
+	        If BMI 30 or more, Obesity
+
+Criteria:	If Hearbeat Rate > 185, Risky
+	        If Hearbeat Rate <= 185, OK
