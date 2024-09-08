@@ -1,0 +1,6 @@
+If User's Average TotalTimeInBed(Hrs) per Day is > 9 hrs,they falls in category of "Excessive Sleepiness"
+
+
+
+If User's Average TotalTimeInBed per Dat is Below 7 hrs,they are more likey to fall in category of "Sleep Disorder".
+
