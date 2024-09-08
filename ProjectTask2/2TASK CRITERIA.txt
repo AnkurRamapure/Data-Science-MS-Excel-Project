@@ -1,0 +1,5 @@
+If User's VeryActiveMinutes is > 30,they are individuals who are 	     already very active and looking to upgrade or replace their 	 	     existing gear.
+
+
+If User's VeryActiveMinutes is in between 10 and 30, they may be people who are just starting to get into fitness and looking for affordable equipment to use at home. 
+
